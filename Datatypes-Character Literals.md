@@ -7,8 +7,17 @@ To write a Python program that prints the characters `'T'` and `'a'` using chara
 1. Print the character `'T'`.
 2. Print the character `'a'`.
 
-## 🧾 Program
+## 🧾 Program:
+```
+v='T'
+b='a'
+print(v)
+print(b)
+```
 
-## Output
+## Output:
+![image](https://github.com/user-attachments/assets/b0338dde-e570-4471-928f-ea1339ac4643)
 
-## Result
+
+## Result:
+thus,the program has been executed successfully.
